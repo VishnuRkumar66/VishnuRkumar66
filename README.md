@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VishnuRkumar66
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react and Python
+- 🌱 I’m currently learning .NET Full stack with Angular..
 - 📫 How to reach me vishnurkumar66@gmail.com
 
 
